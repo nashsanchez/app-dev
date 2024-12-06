@@ -1,4 +1,4 @@
 # app-dev
 My first repository.
 
-FROM BSIT 3.1 C
+I don't have a crush cuz she's already my girlfriend

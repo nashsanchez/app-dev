@@ -1,4 +1,4 @@
 # app-dev
 My first repository.
 
-my favorite food is french fries and my favorite place is playmates
+my dream is to be succesful in life and make my parents proud

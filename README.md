@@ -1,4 +1,4 @@
 # app-dev
 My first repository.
 
-I don't have a crush cuz she's already my girlfriend
+my favorite food is french fries and my favorite place is playmates

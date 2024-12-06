@@ -1,4 +1,1 @@
-# app-dev
-My first repository.
-
-my dream is to be succesful in life and make my parents proud
+we don't have a final title proposal

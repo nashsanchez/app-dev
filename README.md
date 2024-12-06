@@ -1,1 +1,1 @@
-my favorite game is summertime saga 
+my favorite subject is app dev

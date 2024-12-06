@@ -1,2 +1,1 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F834943740462274%2Fposts%2F1397827094173933%2F&psig=AOvVaw2Oe8SHKriheOM-tSGQWxUj&ust=1733553583972000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCND74M3EkooDFQAAAAAdAAAAABBF
-montero euro concept
+FROM BSIT 3.1 C
